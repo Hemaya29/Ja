@@ -1,5 +1,4 @@
-package com.DAY4.CW.CW2;
-
+package com.DAY4.CW.EncapsulationDemo;
 
 class Student{
     private int rno;
