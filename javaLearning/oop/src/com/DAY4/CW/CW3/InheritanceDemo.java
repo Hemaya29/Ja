@@ -1,4 +1,4 @@
-package com.Day4.Inheritance;
+package com.DAY4.CW.CW3;
 
 class GrandFather{
     public void land(){

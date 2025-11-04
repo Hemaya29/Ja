@@ -1,4 +1,4 @@
-package com.Day4.Encapsulation;
+package com.DAY4.CW.CW2;
 
 
 class Student{

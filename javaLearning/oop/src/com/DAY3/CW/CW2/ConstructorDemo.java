@@ -21,7 +21,7 @@ class Students{
 }
 public class ConstructorDemo {
     public static void main(String[] args) {
-        Student.college="MSAJ";
+        Students.college="MSAJ";
         Students s1=new Students("Jannath",101,"EEE","MSAJ");
         s1.display();
         System.out.println("----------------------");
