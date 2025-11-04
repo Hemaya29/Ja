@@ -1,4 +1,4 @@
-package com.Day3;
+package com.DAY3.CW.CW2;
 class Students{
     String name;
     int rno;
