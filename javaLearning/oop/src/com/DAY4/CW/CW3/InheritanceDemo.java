@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.Day4.CW.Inheritance;
+=======
+package com.DAY4.CW.CW3;
+>>>>>>> ecc5c9d (Save local uncommitted changes before rebase)
 
 class GrandFather{
     public void land(){

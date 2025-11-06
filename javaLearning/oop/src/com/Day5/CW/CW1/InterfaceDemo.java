@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.DAY5.CW.CW1;
+=======
+package com.Day5.CW.CW1;
+>>>>>>> ecc5c9d (Save local uncommitted changes before rebase)
 
 interface Payable{
     void generatePayslip();

@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 package com.DAY4.CW.EncapsulationDemo;
+=======
+package com.DAY4.CW.CW2;
+
+>>>>>>> ecc5c9d (Save local uncommitted changes before rebase)
 
 class Student{
     private int rno;
