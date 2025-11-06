@@ -1,4 +1,4 @@
-package com.Day5.CW.CW1;
+package com.DAY5.CW.CW1;
 
 interface Payable{
     void generatePayslip();
